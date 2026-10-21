@@ -24,3 +24,5 @@ Performed Git operations including initialization, adding files, committing chan
 
 This project demonstrates basic knowledge of AWS cloud infrastructure, Ubuntu Linux administration, Apache web hosting, Bash scripting, and Git/GitHub version control.
 Project managed using Git and GitHub.
+
+Git branch and merge practice completed.
