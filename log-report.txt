@@ -1,0 +1,16 @@
+LINUX LOG MONITORING REPORT
+
+Project: Cloud-Based Linux Server Deployment
+Server: Ubuntu EC2 Instance
+
+1. Failed Login Attempts
+This section shows unsuccessful login attempts.
+
+2. SSH Login Activity
+This section shows SSH login activity on the server.
+
+3. System Errors
+This section contains system error messages.
+
+4. Warning Messages
+This section contains system warning messages.
